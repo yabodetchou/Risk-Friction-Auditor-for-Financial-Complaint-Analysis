@@ -7,7 +7,9 @@ This dataset is a collection of over 6,000 customer complaints about Bank of Ame
 ## Column Description
 The dataset has overall 6,197 rows and 18 columns.
 
-### Column Name: **Bold**
+
+### Column 1: **Bold**
+- Name
 - Data Type:
 - Description: 
 
