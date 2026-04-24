@@ -9,7 +9,7 @@ The data comes from the *Consumer Complaint Database* maintained by the **Consum
 
 It is a public databse where you can find real complaints that people have submitted about financial products and services, like mortgages, credit cards, and bank accounts.
 
-# The URL
+## The URL
 This page allows you to search, filter, and track trends in consumer complaints. The **List** tab in the CFPB is the view foe browsing individual complaints one by one.
 [https://www.consumerfinance.gov/data-research/consumer-complaints/search/?dateRange=3y&date_received_max=2026-04-22&date_received_min=2023-04-22&page=1&searchField=all&size=25&sort=created_date_desc&tab=List]
 
