@@ -5,7 +5,7 @@ Banks have trouble managing the thousands of complaints they get every day. They
 This dataset is a collection of over 6,000 customer complaints about Bank of America’s financial products and services. It contains records of consumer complaints filed against Bank of America, providing insights into the issues faced by customers regarding their financial products and services.
 
 ## Column Description
-
+The dataset has overall 6,197 rows and 18 columns.
 
 ### Column Name: **Bold**
 - Data Type:
