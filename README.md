@@ -7,77 +7,92 @@ This dataset is a collection of over 6,000 customer complaints about Bank of Ame
 ## Column Description
 The dataset has overall 6,197 rows and 18 columns.
 
+**Column1**
+- [Name] Date received
+- [Data Type] object
+- [Description] The date the complaint was received by the agency. 
 
-**Bold**
+**Column2**
+- Name
+- Data Type:
+- Description:
+
+**Column3**
 - Name
 - Data Type:
 - Description: 
 
-### Column Name: **Bold**
+**Column4**
+- Name
 - Data Type:
 - Description:
 
-### Column Name: **Bold**
+**Column5**
+- Name
 - Data Type:
 - Description: 
 
-### Column Name: **Bold**
+**Column6**
+- Name
 - Data Type:
 - Description:
 
-### Column Name: **Bold**
+**Column7**
+- Name
 - Data Type:
 - Description: 
 
-### Column Name: **Bold**
+**Column8**
+- Name
 - Data Type:
 - Description:
 
-### Column Name: **Bold**
+**Column9**
+- Name
+- Data Type:
+- Description:
+
+**Column10**
+- Name
 - Data Type:
 - Description: 
 
-### Column Name: **Bold**
+**Column11**
+- Name
 - Data Type:
 - Description:
 
-### Column Name: **Bold**
-- Data Type:
-- Description:
-
-
-### Column Name: **Bold**
+**Column12**
+- Name
 - Data Type:
 - Description: 
 
-### Column Name: **Bold**
+**Column13**
+- Name
 - Data Type:
 - Description:
 
-### Column Name: **Bold**
+**Column14**
+- Name
 - Data Type:
 - Description: 
 
-### Column Name: **Bold**
+**Column15**
+- Name
 - Data Type:
 - Description:
 
-### Column Name: **Bold**
+**Column16**
+- Name
 - Data Type:
 - Description: 
 
-### Column Name: **Bold**
+**Column17**
+- Name
 - Data Type:
 - Description:
 
-### Column Name: **Bold**
-- Data Type:
-- Description: 
-
-### Column Name: **Bold**
-- Data Type:
-- Description:
-
-### Column Name: **Bold**
+**Column18**
+- Name
 - Data Type:
 - Description: 
